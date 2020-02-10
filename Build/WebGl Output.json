@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3D Chinook Helicopter",
+"productVersion": "0.1",
+"dataUrl": "WebGl Output.data.unityweb",
+"wasmCodeUrl": "WebGl Output.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGl Output.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
